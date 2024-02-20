@@ -5,8 +5,8 @@
  *
  * This template can be overridden by copying it to yourtheme/learnpress/addons/zibal-payment/form.php.
  *
- * @author   Amirhossein Taghizadeh
- * @link     https://zibal.com
+ * @author   zibal team
+ * @link     https://zibal.ir
  * @package  LearnPress/Zibal/Classes
  * @version  2.0.0
  */

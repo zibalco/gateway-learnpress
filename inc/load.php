@@ -4,7 +4,7 @@
  * Plugin load class.
  *
  * @author   zibal team
- * @link 	 https://zibal.com
+ * @link 	 https://zibal.ir
  * @package  LearnPress/Zibal/Classes
  * @version  2.0.0
  */
